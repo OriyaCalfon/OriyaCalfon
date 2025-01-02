@@ -13,7 +13,7 @@ I specialize in developing high-quality web and mobile applications using modern
  ### Technologies & Tools 🔧
 
 - **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS
-- **Frontend:** React, React Native, Next.js, Redux, CSS
+- **Frontend:** React, React Native, Redux, Angular
 - **Backend:** C# .Net, Java, Node.js, Strapi, REST APIs, 
 - **Databases:** MongoDB, SQL
 - **Tools:** Git, GitHub, Docker, Figma, Postman
