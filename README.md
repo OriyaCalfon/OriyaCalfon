@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Oriya Calfon 👋
 
-<!--
-**OriyaCalfon/OriyaCalfon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer with experience in web and mobile app development. 
 
-Here are some ideas to get you started:
+### About Me 🚀
+I specialize in developing high-quality web and mobile applications using modern technologies like React, Node.js, Express, and React Native. I enjoy working on both the frontend and backend, with experience in database management, API integrations and creating attractive user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning **TypeScript** and **React Native**
+- 💼 I'm currently interning at **Dojo** as a Full Stack Developer
+- 💬 Ask me about **React**, **Node.js**, **React Native**, **TypeScript**, **Redux**, and more!
+- 📫 Reach me at or99330@gmail.com
+
+ ### Technologies & Tools 🔧
+
+- **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS
+- **Frontend:** React, React Native, Next.js, Redux, CSS
+- **Backend:** C# .Net, Java, Node.js, Strapi, REST APIs, 
+- **Databases:** MongoDB, SQL
+- **Tools:** Git, GitHub, Docker, Figma, Postman
+ 
