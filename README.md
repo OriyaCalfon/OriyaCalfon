@@ -36,30 +36,15 @@ I currently serve as a Full Stack Developer at Dojo, where I work on developing 
 
 ---
 
-### 🌐 Let's Connect!
+### Let's Connect! 🌐
 
-<a href="https://www.linkedin.com/in/oriya-calfon-5a44a4233/" style="text-decoration:none;">
-  <button style="background-color:#0A66C2; color:white; border:none; padding:8px 15px; border-radius:5px; font-weight:bold; cursor:pointer; margin:5px;">
-    LinkedIn
-  </button>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oriya-calfon-5a44a4233/)
 
-<a href="https://oriya-calfon-portfolio.netlify.app/" style="text-decoration:none;">
-  <button style="background-color:#0A66C2; color:white; border:none; padding:8px 15px; border-radius:5px; font-weight:bold; cursor:pointer; margin:5px;">
-    Portfolio
-  </button>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4C29.svg?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://oriya-calfon-portfolio.netlify.app/)
 
-<a href="https://github.com/OriyaCalfon" style="text-decoration:none;">
-  <button style="background-color:#0A66C2; color:white; border:none; padding:8px 15px; border-radius:5px; font-weight:bold; cursor:pointer; margin:5px;">
-    GitHub
-  </button>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-%231B1F23.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OriyaCalfon)
 
-<a href="mailto:or99330@gmail.com" style="text-decoration:none;">
-  <button style="background-color:#0A66C2; color:white; border:none; padding:8px 15px; border-radius:5px; font-weight:bold; cursor:pointer; margin:5px;">
-    Email
-  </button>
-</a>
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:or99330@gmail.com)
+
 
 
