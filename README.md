@@ -38,7 +38,28 @@ I currently serve as a Full Stack Developer at Dojo, where I work on developing 
 
 ### 🌐 Let's Connect!
 
-- [![LinkedIn](https://www.linkedin.com/in/oriya-calfon-5a44a4233/)
-- [![Portfolio](https://oriya-calfon-portfolio.netlify.app/)
-- [![GitHub](https://github.com/OriyaCalfon)
-- [![Email](mailto:or99330@gmail.com)
+<a href="https://www.linkedin.com/in/oriya-calfon-5a44a4233/" style="text-decoration:none;">
+  <button style="background-color:#0A66C2; color:white; border:none; padding:8px 15px; border-radius:5px; font-weight:bold; cursor:pointer; margin:5px;">
+    LinkedIn
+  </button>
+</a>
+
+<a href="https://oriya-calfon-portfolio.netlify.app/" style="text-decoration:none;">
+  <button style="background-color:#0A66C2; color:white; border:none; padding:8px 15px; border-radius:5px; font-weight:bold; cursor:pointer; margin:5px;">
+    Portfolio
+  </button>
+</a>
+
+<a href="https://github.com/OriyaCalfon" style="text-decoration:none;">
+  <button style="background-color:#0A66C2; color:white; border:none; padding:8px 15px; border-radius:5px; font-weight:bold; cursor:pointer; margin:5px;">
+    GitHub
+  </button>
+</a>
+
+<a href="mailto:or99330@gmail.com" style="text-decoration:none;">
+  <button style="background-color:#0A66C2; color:white; border:none; padding:8px 15px; border-radius:5px; font-weight:bold; cursor:pointer; margin:5px;">
+    Email
+  </button>
+</a>
+
+
