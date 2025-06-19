@@ -3,7 +3,7 @@
 
 ---
 
-### 🌟 About Me
+###  About Me 🌟
 
 Hello, I'm Oriya!  
 I'm a highly motivated developer with hands-on experience in both frontend and backend development, with strong proficiency in modern web technologies — particularly in **React** and **Node.js**.  
