@@ -38,13 +38,11 @@ I currently serve as a Full Stack Developer at Dojo, where I work on developing 
 
 ### Let's Connect! 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oriya-calfon-5a44a4233/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230066BB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E6F0FA&rounded=true)](https://www.linkedin.com/in/your-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230066BB?style=for-the-badge&logo=about-dot-me&logoColor=white&labelColor=E6F0FA&rounded=true)](https://your-portfolio-link.netlify.app)  
+[![GitHub](https://img.shields.io/badge/GitHub-%230066BB?style=for-the-badge&logo=github&logoColor=white&labelColor=E6F0FA&rounded=true)](https://github.com/your-username)  
+[![Email](https://img.shields.io/badge/Email-%230066BB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E6F0FA&rounded=true)](mailto:your.email@example.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4C29.svg?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://oriya-calfon-portfolio.netlify.app/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-%231B1F23.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OriyaCalfon)
-
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:or99330@gmail.com)
 
 
 
