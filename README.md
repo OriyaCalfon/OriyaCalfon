@@ -38,7 +38,7 @@ I currently serve as a Full Stack Developer at Dojo, where I work on developing 
 
 ### 🌐 Let's Connect!
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/oriya-calfon-5a44a4233/)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=react)](https://oriya-calfon-portfolio.netlify.app/)
-- [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/OriyaCalfon)
-- [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:or99330@gmail.com)
+- [![LinkedIn](https://www.linkedin.com/in/oriya-calfon-5a44a4233/)
+- [![Portfolio](https://oriya-calfon-portfolio.netlify.app/)
+- [![GitHub](https://github.com/OriyaCalfon)
+- [![Email](mailto:or99330@gmail.com)
