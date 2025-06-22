@@ -9,9 +9,9 @@ Hello, I'm Oriya!
 I'm a highly motivated developer with hands-on experience in both frontend and backend development, with strong proficiency in modern web technologies — particularly in **React** and **Node.js**.  
 I currently serve as a Full Stack Developer at Dojo, where I work on developing frontend interfaces using **React Native** and **TypeScript**, while also contributing to server-side development with **Node.js** and **Strapi**.  
 
-🚀 I constantly seek to expand my knowledge and skills.  
+🚀 I'm always expanding my knowledge and skills.  
 🎯 I have a strong commitment to quality and precision.  
-🧠 I excel at learning new technologies rapidly and independently.  
+🧠 I excel at learning new technologies quickly and independently.  
 
 ---
 
